@@ -1,0 +1,16 @@
+body
+{
+background-color: black;
+text-align: center;
+}
+h1
+{
+background-color: white;
+color: balck;
+display: inline-block;
+width: 150px;
+}
+button
+{
+width: 100px; 
+}
